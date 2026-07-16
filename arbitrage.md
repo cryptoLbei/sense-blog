@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 套利思考
+permalink: /arbitrage/
 ---
 
 <div class="page-header">
