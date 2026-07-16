@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 实盘策略
+permalink: /strategy/
 ---
 
 <div class="page-header">
