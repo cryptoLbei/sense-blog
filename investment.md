@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 投资思考
+permalink: /investment/
 ---
 
 <div class="page-header">
