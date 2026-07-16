@@ -397,19 +397,13 @@ nav {
     font-size: 0.9rem;
 }
 
+/* 所有段落首行缩进，包括标题后的第一段 */
 .post-content p {
     margin-bottom: 1.5rem;
     line-height: 2;
     font-size: 1.05rem;
     text-indent: 2em;
     text-align: justify;
-}
-
-/* 标题后的第一段不缩进 */
-.post-content h1 + .meta + p,
-.post-content h2 + p,
-.post-content h3 + p {
-    text-indent: 0;
 }
 
 .post-content h2 {
