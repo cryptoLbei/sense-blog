@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="post-content">
+    <h1>{{ page.title }}</h1>
+    <div class="meta">
+        {{ page.date | date: "%Y-%m-%d" }} 
+        {% if page.categories %}| {{ page.categories | join: ", " }}{% endif %}
+    </div>
+    {{ content }}
+    <hr>
+    <p style="color: var(--text-light); font-size: 0.9rem; margin-top: 2rem;">
+        <em>免责声明：本文仅为个人研究记录，不构成任何投资建议。市场有风险，投资需谨慎。</em>
+    </p>
+</div>

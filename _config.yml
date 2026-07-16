@@ -1,0 +1,34 @@
+title: "Sense Investment"
+description: "投资思考与实盘记录"
+baseurl: ""
+url: "https://senseinvestment.cn"
+
+author:
+  name: "Crypto Lbei"
+  bio: "毕业于清华大学经管学院"
+
+sections:
+  - id: trading
+    title: "交易随笔"
+    icon: "📊"
+    desc: "日常交易记录、操作逻辑与即时复盘"
+  - id: investment
+    title: "投资思考"
+    icon: "🧠"
+    desc: "深度行业研究与投资框架迭代"
+  - id: arbitrage
+    title: "套利思考"
+    icon: "⚡"
+    desc: "跨市场、事件驱动套利机会挖掘"
+  - id: strategy
+    title: "实盘策略"
+    icon: "📈"
+    desc: "量化策略回测与实盘跟踪"
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
