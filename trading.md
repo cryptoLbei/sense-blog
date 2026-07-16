@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 交易随笔
+permalink: /trading/
 ---
 
 <div class="page-header">
