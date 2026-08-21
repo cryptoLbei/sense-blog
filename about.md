@@ -13,7 +13,7 @@ permalink: /about/
     
     <p>这个博客记录我的投资思考、行业观察和学习笔记，以及交易日志、深度思考与实盘验证。</p>
 
-    <p>联系方式：Telegram [@SENSEINVESTMENT](https://t.me/SENSEINVESTMENT)</p>
+    <p>联系方式：微信：dzyhc48</p>
     
     <hr>
     
